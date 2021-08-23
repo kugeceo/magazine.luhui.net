@@ -1,3 +1,23 @@
+# 鲁虺杂志设计制作资源下载
+---------------------
+
+本项目绑定的域名
+http://zazhi.netlify.app
+http://magazine.luhui.net
+http://zazhi.luhui.net
+
+
+Deploy status badge 部署状态徽章
+
+
+This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
+此图像自动更新以反映最新生产部署的当前状态。您可以使用下面的Markdown Scippet将其添加到您的项目自述文件中。
+
+
+Deploy status badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5bf97a9-6e4f-4bbe-a745-114bb5c6824c/deploy-status)](https://app.netlify.com/sites/zazhi/deploys)
+
+
 # 经济学人、纽约客、自然等外刊杂志下载
 ---------------------
 
